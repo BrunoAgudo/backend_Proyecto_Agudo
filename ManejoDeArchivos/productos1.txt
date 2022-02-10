@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Bajo",
+    "precio": 12050,
+    "img": "foto",
+    "id": 1
+  },
+  {
+    "nombre": "Guitarra",
+    "precio": 12350,
+    "img": "foto2",
+    "id": 2
+  },
+  {
+    "nombre": "Arpa",
+    "precio": 12000,
+    "img": "foto3",
+    "id": 3
+  }
+]
